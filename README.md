@@ -1,12 +1,12 @@
-# Attribution JSON Parser — sGTM Custom Template
+# Attribution JSON Parser – sGTM Custom Template
 
 Parse first-touch/last-touch attribution JSON in server-side GTM. Extract values via dot-notation paths.
 
 ## Quick Start
 
-1. **Download** — Click `Attribution JSON Parser.tpl` above, or clone repo, or [download ZIP](https://github.com/EmtiazHossainE2/attribution-json-parser/archive/refs/heads/main.zip)
-2. **Unzip** — extract `.tpl` file
-3. **Import** — sGTM Container > Templates > New > ⋮ > Import > select `.tpl` > Save
+1. **Download** – Click `Attribution JSON Parser.tpl` above, or clone repo, or [download ZIP](https://github.com/EmtiazHossainE2/attribution-json-parser/archive/refs/heads/main.zip)
+2. **Unzip** – extract `.tpl` file
+3. **Import** – sGTM Container > Templates > New > ⋮ > Import > select `.tpl` > Save
 
 ## Usage
 
